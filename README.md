@@ -215,7 +215,7 @@ This project was developed as part of the Edunet Foundation learning experience.
 
 **Project Title:** Prediction of CO₂ Emissions from Country-Specific Data
 
-📄 **Certificate:** [View Certificate](certificates/edunet-certificate.pdf)
+📄 **Certificate:** [View Certificate](certificate)
 
 ## 💡 Skills Demonstrated
 
